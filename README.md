@@ -13,6 +13,7 @@ After the overturning of the Professional and Amateur Sports Protection Act (PAS
 559 observations across 43 states. 
 ## Key Variables:
 **Financial Indicators:**
+
 *cc_delinq* - the percentage of credit card debt 90+ days delinquent.
 
 *auto_delinq* - the percentage of auto loan debt 90+ days delinquent.
