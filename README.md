@@ -14,10 +14,20 @@ After the overturning of the Professional and Amateur Sports Protection Act (PAS
 ## Key Variables:
 **Financial Indicators:**
 *cc_delinq* - the percentage of credit card debt 90+ days delinquent.
+
 *auto_delinq* - the percentage of auto loan debt 90+ days delinquent.
+
 *mort_delinq* - the percentage of mortgage debt 90+ days delinquent.
+
 *stud_delinq* - the percentage of student loan debt 90+ days delinquent.
-*also includes the total balance of each type of indicator
+
+*cc_bal* - the total balance of credit card debt.
+
+*auto_bal* - the total balance of auto loan debt.
+
+*mort_bal* - the total balance of mortgage debt.
+
+*stud_bal* - the total balance of student loan debt.
 
 **Economic Indicators:**
 *rgdp*
