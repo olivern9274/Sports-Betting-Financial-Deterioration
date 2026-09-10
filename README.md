@@ -31,8 +31,12 @@ After the overturning of the Professional and Amateur Sports Protection Act (PAS
 *stud_bal* - the total balance of student loan debt.
 
 **Economic Indicators:**
-*rgdp*
-*pop*
-*unemp*
-*ricapita*
-*labor_force*
+*rgdp* - the real gross domestic product of a state in chained 2017 dollars.
+
+*pop* - the population of a state.
+
+*unemp* - the unemployment rate of a state.
+
+*ricapita* - the real income per capita of a state in chained 2017 dollars.
+
+*labor_force* - the size of the labor force of a state.
